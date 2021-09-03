@@ -27,6 +27,8 @@ what happens if ncx = ncy = 23000 is not done?
 >then the code while loop until drawing the line must be copied and pasted above the while loop inside a while loop with the condition that at least one contour is found so that we have value of ncx and ncy and now we can proceed to the next while loop.
 >advantage of not doing this is it reduces the number of lines of codes greatly. Also, addition of all these lines of code still won't give remarkable benefit at all.
 
+Check out the video of the working of the program
+
 [https://drive.google.com/file/d/1uwVb0sshJlow62FZER2j-WEKrpm5E0hy/view?usp=sharing](https://)
 
 ### Contributors
